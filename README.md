@@ -125,11 +125,7 @@ This project demonstrates:
 
 Zarfshan Attiq Khan
 
-<<<<<<< HEAD
-## Github link 
+## Github link
 
 https://github.com/zarfshankhan/Mini-Task-Tracker.git
-=======
-## Github link
-https://github.com/zarfshankhan/Mini-Task-Tracker.git
->>>>>>> a47150cdda0f2a72d71d6c22db4760daeb256e3e
+
